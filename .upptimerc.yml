@@ -5,12 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Main Site
     url: https://www.lightingcontrol.co.uk
-  - name: LCD Oauth Service
-    url: https://oauth.lightingcontrol.co.uk/api/oauthmiddleware?baseUrl=http://localhost&code=XXX&driver=ABC&instance=A1B2
-  - name: LCD Text to Voice Service
-    url: https://voice.lightingcontrol.co.uk/api/oauthmiddleware?baseUrl=http://localhost&code=XXX&driver=ABC&instance=A1B2
-  - name: LCD VPN
-    url: https://news.ycombinator.com
+  # - name: LCD Oauth Service
+  #   url: https://oauth.lightingcontrol.co.uk/api/oauthmiddleware?baseUrl=http://localhost&code=XXX&driver=ABC&instance=A1B2
+  # - name: LCD Text to Voice Service
+  #   url: https://voice.lightingcontrol.co.uk/api/oauthmiddleware?baseUrl=http://localhost&code=XXX&driver=ABC&instance=A1B2
   - name: https://drivers.crestron.io/
     url: https://drivers.crestron.io/
 
@@ -18,16 +16,20 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /LCD_Uptime
   logoUrl: https://avatars.githubusercontent.com/u/89903371?s=200&v=4
   name: LCD Uptime Monitor
-  introTitle: "**LCD Upptime** is a monitor and status page for LCD Services and Sited.
+  introTitle: "**LCD Upptime** is a monitor and status page for LCD Services and Sited.!"
+  
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). 
+
   navbar:
     - title: Main LCD Site
       href: https://lightingcontrol.co.uk/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
