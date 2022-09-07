@@ -5,10 +5,10 @@ repo: LCD_Uptime # The name of this repository
 sites:
   - name: Main Site
     url: https://www.lightingcontrol.co.uk
-  # - name: LCD Oauth Service
-  #   url: https://oauth.lightingcontrol.co.uk/api/oauthmiddleware?baseUrl=http://www.google.com&code=XXX&driver=ABC&instance=A1B2
-  # - name: LCD Text to Voice Service
-  #   url: https://voice.lightingcontrol.co.uk/api/oauthmiddleware?baseUrl=http://localhost&code=XXX&driver=ABC&instance=A1B2
+  - name: LCD Oauth Service
+    url: https://oauth.lightingcontrol.co.uk
+  - name: LCD Text to Voice Service
+    url: https://chimes.lightingcontrol.co.uk
   - name: https://drivers.crestron.io/
     url: https://drivers.crestron.io/
   - name: LCD VPN
