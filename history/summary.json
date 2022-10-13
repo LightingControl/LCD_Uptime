@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 497,
     "timeDay": 343,
-    "timeWeek": 526,
+    "timeWeek": 498,
     "timeMonth": 505,
     "timeYear": 497,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "8.8.4.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lcd-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
