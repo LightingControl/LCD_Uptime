@@ -22,7 +22,7 @@
     "url": "https://oauth.lightingcontrol.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/oauth.lightingcontrol.co.uk.ico",
     "slug": "lcd-oauth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 483,
-    "timeWeek": 543,
+    "timeWeek": 457,
     "timeMonth": 409,
     "timeYear": 630,
     "dailyMinutesDown": {}
