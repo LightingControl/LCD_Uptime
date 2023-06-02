@@ -4,7 +4,7 @@
     "url": "https://www.lightingcontrol.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.lightingcontrol.co.uk.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1577,
     "timeDay": 1619,
     "timeWeek": 2032,
-    "timeMonth": 3311,
+    "timeMonth": 3368,
     "timeYear": 1577,
     "dailyMinutesDown": {}
   },
