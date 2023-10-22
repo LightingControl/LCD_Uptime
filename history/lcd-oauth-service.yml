@@ -1,7 +1,7 @@
 url: https://oauth.lightingcontrol.co.uk
-status: up
-code: 200
-responseTime: 625
-lastUpdated: 2023-10-21T23:02:28.309Z
+status: down
+code: 503
+responseTime: 341
+lastUpdated: 2023-10-22T01:42:43.029Z
 startTime: 2022-09-07T19:31:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
