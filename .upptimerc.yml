@@ -11,10 +11,6 @@ sites:
     url: https://chimes.lightingcontrol.co.uk
   - name: https://drivers.crestron.io/
     url: https://drivers.crestron.io/
-  - name: LCD VPN
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -23,9 +19,9 @@ status-website:
   baseUrl: /LCD_Uptime
   logoUrl: https://avatars.githubusercontent.com/u/89903371?s=200&v=4
   name: LCD Service Monitor
-  introTitle: "**LCD Upptime** is a monitor and status page for LCD Services and Sited.!"
+  introTitle: "**LCD Service Monitor** shows the status of LCD services and sites."
   
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). 
+  introMessage: Results are stored in our [GitHub repository](https://github.com/LightingControl/LCD_Uptime).
 
   navbar:
     - title: Main LCD Site
